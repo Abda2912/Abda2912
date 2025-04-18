@@ -8,22 +8,23 @@ I am passionate about **Web Development** and **Mobile App Development**. I love
 
 ### 📚 **Current Learning**
 
-- **Web Development** (React.js, Node.js, HTML/CSS, JavaScript)
-- **Mobile App Development** (React Native, Flutter)
-- **Backend** (Express.js, MongoDB)
-- **UI/UX Design** (Figma, Adobe XD)
-- **Cloud** (AWS, Firebase)
+- **Web Development** with ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+- **Mobile App Development** with ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=fff), ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff)
+- **Backend Development** with ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)
+- **Databases** with ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=fff)
+- **Cloud Services** with ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=fff)
 
 ---
 
 ### 🔧 **Technologies & Tools**
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js
-- **Backend**: Node.js, Express.js
-- **Mobile**: React Native, Flutter
-- **Databases**: MongoDB, Firebase
-- **Version Control**: Git, GitHub
-- **Others**: Figma, Adobe XD, NPM, Yarn, Docker
+- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=fff), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=fff), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff), ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)
+- **Mobile**: ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=fff), ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff)
+- **Database**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=fff)
+- **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=fff)
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+- **Design**: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff), ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=fff)
 
 ---
 
